@@ -18,9 +18,9 @@ function Home({ datas }) {
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
       </Head>
       <main>
-        <div className="container mx-auto">
+        <div className="container mx-auto my-10">
           <h1
-            className="text-4xl text-center font-bold text-gray-800 mt-10 mb-2"
+            className="text-4xl text-center font-bold text-gray-800 mb-2"
           >Asmaul Husna <span className='text-red-500 text-4xl'>❤️</span></h1>
           <Footer />
           <div className="flex flex-wrap gap-x-4 justify-center gap-y-2 mt-6">
